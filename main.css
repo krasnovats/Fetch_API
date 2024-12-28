@@ -1,0 +1,13 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .user {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        h2 {
+            margin: 0;
+        }
